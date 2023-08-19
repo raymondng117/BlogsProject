@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/addBlogs.git/static/css/main.f1302bb2.css",
-    "main.js": "/addBlogs.git/static/js/main.577ce051.js",
+    "main.js": "/addBlogs.git/static/js/main.6386fb08.js",
     "index.html": "/addBlogs.git/index.html",
     "main.f1302bb2.css.map": "/addBlogs.git/static/css/main.f1302bb2.css.map",
-    "main.577ce051.js.map": "/addBlogs.git/static/js/main.577ce051.js.map"
+    "main.6386fb08.js.map": "/addBlogs.git/static/js/main.6386fb08.js.map"
   },
   "entrypoints": [
     "static/css/main.f1302bb2.css",
-    "static/js/main.577ce051.js"
+    "static/js/main.6386fb08.js"
   ]
 }
