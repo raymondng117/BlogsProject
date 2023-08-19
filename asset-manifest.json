@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.f1302bb2.css",
-    "main.js": "/static/js/main.577ce051.js",
-    "index.html": "/index.html",
-    "main.f1302bb2.css.map": "/static/css/main.f1302bb2.css.map",
-    "main.577ce051.js.map": "/static/js/main.577ce051.js.map"
+    "main.css": "/addBlogs.git/static/css/main.f1302bb2.css",
+    "main.js": "/addBlogs.git/static/js/main.577ce051.js",
+    "index.html": "/addBlogs.git/index.html",
+    "main.f1302bb2.css.map": "/addBlogs.git/static/css/main.f1302bb2.css.map",
+    "main.577ce051.js.map": "/addBlogs.git/static/js/main.577ce051.js.map"
   },
   "entrypoints": [
     "static/css/main.f1302bb2.css",
